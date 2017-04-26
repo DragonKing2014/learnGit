@@ -1,3 +1,0 @@
-Git is a version which can control system.
-Git is free easy software.
-Git has a mutable index called stage.
